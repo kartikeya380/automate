@@ -1,0 +1,7 @@
+project: "Demo"
+repository: "github.com/kartikeya380/automate.git"
+cloneURL: "https://github.com/kartikeya380/automate.git"
+sharedSecret: "1234"
+github:
+    token: "c2407fcaa79aafd7e0ceb888b7ec8d1ec0864822"
+
